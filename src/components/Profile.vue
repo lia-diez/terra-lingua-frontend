@@ -1,6 +1,6 @@
 ﻿<script setup lang="ts">
 import {getToken, getUserdata, onTokenChange, removeToken} from "../helpers/token-helpers.ts";
-import { useRouter, useRoute } from 'vue-router'
+import { useRouter} from 'vue-router'
 import {ref} from "vue";
 import {useToast} from "primevue";
 
