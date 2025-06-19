@@ -25,7 +25,7 @@ const changeTheme = () => {
             </template>
           </Button>
           <Button as="a" label="GitHub" severity="secondary" icon="pi pi-github" rounded
-                  href="https://github.com/jiangtian616/JHenTai" target="_blank" rel="noopener"/>
+                  href="https://github.com/lia-diez/terra-lingua-unity" target="_blank" rel="noopener"/>
 
         </div>
       </template>
